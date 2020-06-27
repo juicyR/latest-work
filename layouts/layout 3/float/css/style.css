@@ -1,0 +1,30 @@
+.wrapper {
+    margin: 0 auto;
+	width: 600px;
+}
+.header {
+    width: 100%;
+    background-color: red;
+    height: 75px;
+}
+.content-section {
+    background-color: #d1d1cd;
+    height: 550px;
+    padding: 6px;
+}
+.boxes {
+    float: left;
+    background-color: red;
+    width: 120px;
+    height: 120px;
+    margin-left: 55px;
+    margin-top: 45px;
+}
+.footer {
+    float: left;
+    width: 100%;
+    background-color: red;
+    height: 75px;
+    margin-top: 45px;
+    margin: 0;
+}

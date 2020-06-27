@@ -1,0 +1,27 @@
+.wrapper {
+    margin: 0 auto;
+	width: 600px;
+}
+.header {
+    width: 100%;
+    background-color: red;
+    height: 75px;
+}
+.bg {
+    background-color: #b3b2af; 
+}
+.body {
+    border-spacing: 40px;
+}
+.middle {
+    background-color: red;
+    padding: 70px;
+}
+.row {
+    margin-bottom: 10px;
+}
+.footer {
+    width: 100%;
+    background-color: red;
+    height: 75px;
+}

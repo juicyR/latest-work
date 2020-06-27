@@ -1,0 +1,33 @@
+.wrapper{
+    margin: 0 auto;
+	width: 600px;
+}
+.header {
+    width: 100%;
+    background-color: red;
+    height: 60px;
+}
+.column1 {
+    float: left;
+    background-color: blue;
+    height: 500px;
+    width: 120px;
+}
+.column2 {
+    float: left;
+    background-color: chartreuse;
+    height: 500px;
+    width: 360px;
+}
+.column3 {
+    float: left;
+    background-color: blue;
+    height: 500px;
+    width: 120px;
+}
+.footer {
+    float: left;
+    width: 100%;
+    background-color: grey;
+    height: 60px;
+}
